@@ -1,4 +1,4 @@
-# Serverless REST API Project by [Sanyam Singh]
+# Serverless REST API Project by [Srijan Prabhakar]
 
 
 | Key          | Value                                                                                                |
